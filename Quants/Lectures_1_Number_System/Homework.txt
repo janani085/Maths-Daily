@@ -1,0 +1,14 @@
+Homework Questions:
+
+1. Provide 10 irrational numbers and say why they are irrational ?
+2. Provide 10 Non Real numbers and say why are they non Real numbers ?
+3. As Pi is represented sometime as (22/7),then can it be as a rational number? 
+4. If  a number is non-terminating  and non recurring  then what it is called as ? Give some examples
+5. 574123 Is it a odd or even number? how did you evaluate it ? Tell if its a prime number or not?
+6. How can you detect a given number is a prime or not, how will you calculate it much faster?  
+7. Provide all the composite numbers from 1000 - 1200? 
+8. (square root (-1))^2 is what number ?
+9. What is a complex number ? Give some examples?
+10. Is zero a even number ? and is zero a prime number ? 
+
+
